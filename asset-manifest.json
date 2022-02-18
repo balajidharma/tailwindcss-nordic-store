@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tailwindcss-nordic-store/static/css/main.dfa63cd5.css",
+    "main.js": "/tailwindcss-nordic-store/static/js/main.1476d81d.js",
+    "index.html": "/tailwindcss-nordic-store/index.html",
+    "main.dfa63cd5.css.map": "/tailwindcss-nordic-store/static/css/main.dfa63cd5.css.map",
+    "main.1476d81d.js.map": "/tailwindcss-nordic-store/static/js/main.1476d81d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfa63cd5.css",
+    "static/js/main.1476d81d.js"
+  ]
+}
