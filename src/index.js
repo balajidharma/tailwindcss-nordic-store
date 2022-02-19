@@ -6,7 +6,7 @@ import Layout from './components/Layout/Layout';
 import Home from './pages/Home';
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Layout>
       <Routes>
         <Route path="/" element={<Home/>} />
