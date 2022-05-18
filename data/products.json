@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12 Pro",
+      "href": "#",
+      "price": "$999.99",
+      "brand": "Apple",
+      "category": "Cell Phones",
+      "thumbnail": "https://images.unsplash.com/photo-1611791483458-6da70329aac6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&h=400&q=80"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 13 Pro Max",
+      "href": "#",
+      "price": "$1200",
+      "brand": "Apple",
+      "category": "Cell Phones",
+      "thumbnail": "https://images.unsplash.com/photo-1632633728024-e1fd4bef561a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&h=400&q=80"
+    },
+    {
+      "id": 3,
+      "name": "HP Laptop",
+      "href": "#",
+      "price": "$800",
+      "brand": "HP",
+      "category": "Computers",
+      "thumbnail": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&h=400&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Apple Laptop",
+      "href": "#",
+      "price": "1600",
+      "brand": "Apple",
+      "category": "Computers",
+      "thumbnail": "https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&h=400&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Google pixel 6",
+      "href": "#",
+      "price": "$1000",
+      "brand": "Google",
+      "category": "Cell Phones",
+      "thumbnail": "https://images.unsplash.com/photo-1635870664257-430f094c25db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&h=400&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Sony headphone",
+      "href": "#",
+      "price": "$499.99",
+      "brand": "Sony",
+      "category": "Headphones",
+      "thumbnail": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&h=400&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Apple AirPods",
+      "href": "#",
+      "price": "$222.99",
+      "brand": "Apple",
+      "category": "Headphones",
+      "thumbnail": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&h=400&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Canon camera",
+      "href": "#",
+      "price": "$999.99",
+      "brand": "Canon",
+      "category": "Cameras",
+      "thumbnail": "https://images.unsplash.com/photo-1500646953400-045056a916d7?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&h=400&q=80"
+    }
+  ]
+}
