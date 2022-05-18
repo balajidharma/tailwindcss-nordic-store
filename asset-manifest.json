@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tailwindcss-nordic-store/static/css/main.29566e68.css",
-    "main.js": "/tailwindcss-nordic-store/static/js/main.598833d4.js",
+    "main.js": "/tailwindcss-nordic-store/static/js/main.09ade3a5.js",
     "index.html": "/tailwindcss-nordic-store/index.html",
     "main.29566e68.css.map": "/tailwindcss-nordic-store/static/css/main.29566e68.css.map",
-    "main.598833d4.js.map": "/tailwindcss-nordic-store/static/js/main.598833d4.js.map"
+    "main.09ade3a5.js.map": "/tailwindcss-nordic-store/static/js/main.09ade3a5.js.map"
   },
   "entrypoints": [
     "static/css/main.29566e68.css",
-    "static/js/main.598833d4.js"
+    "static/js/main.09ade3a5.js"
   ]
 }
