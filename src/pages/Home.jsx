@@ -10,7 +10,7 @@ class Home extends React.Component {
   }
 
   componentDidMount() {
-    fetch(process.env.PUBLIC_URL+"/data/products.json")
+    fetch("/data/products.json")
       .then(res => res.json())
       .then(
         (result) => {
